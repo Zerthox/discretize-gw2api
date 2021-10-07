@@ -12,27 +12,27 @@
       "value": 10
     },
     {
-        "text": "Healing",
-        "type": "AttributeAdjust",
-        "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
-        "value": 326,
-        "target": "Healing"
-      },
+      "text": "Healing",
+      "type": "AttributeAdjust",
+      "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+      "value": 326,
+      "target": "Healing"
+    },
     {
-        "text": "Apply Buff/Condition",
-        "type": "Buff",
-        "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
-        "duration": 4,
-        "status": "Swiftness",
-        "description": "Movement speed increased by 33%; stacks duration.",
-        "apply_count": 1
-      },
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+      "duration": 4,
+      "status": "Swiftness",
+      "description": "Movement speed increased by 33%; stacks duration.",
+      "apply_count": 1
+    },
     {
-        "text": "Pulses",
-        "type": "Number",
-        "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-        "value": 5
-      },
+      "text": "Pulses",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 5
+    },
     {
       "text": "Radius",
       "type": "Distance",
@@ -40,10 +40,10 @@
       "distance": 360
     },
     {
-        "text": "Combo Field",
-        "type": "ComboField",
-        "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
-        "field_type": "Water"
-      }
+      "text": "Combo Field",
+      "type": "ComboField",
+      "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+      "field_type": "Water"
+    }
   ]
 }

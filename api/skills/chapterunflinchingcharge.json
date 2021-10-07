@@ -6,23 +6,23 @@
   "categories": ["Tome"],
   "facts": [
     {
-        "text": "Apply Buff/Condition",
-        "type": "Buff",
-        "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
-        "duration": 4,
-        "status": "Stability",
-        "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
-        "apply_count": 1
-      },
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+      "duration": 4,
+      "status": "Stability",
+      "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
+      "apply_count": 1
+    },
     {
-        "text": "Apply Buff/Condition",
-        "type": "Buff",
-        "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
-        "duration": 4,
-        "status": "Swiftness",
-        "description": "Movement speed increased by 33%; stacks duration.",
-        "apply_count": 1
-      },
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+      "duration": 4,
+      "status": "Swiftness",
+      "description": "Movement speed increased by 33%; stacks duration.",
+      "apply_count": 1
+    },
     {
       "text": "Number of Targets",
       "type": "Number",

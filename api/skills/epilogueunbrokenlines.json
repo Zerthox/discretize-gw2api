@@ -12,40 +12,40 @@
       "value": 12
     },
     {
-        "text": "Apply Buff/Condition",
-        "type": "Buff",
-        "icon": "https://render.guildwars2.com/file/DFB4D1B50AE4D6A275B349E15B179261EE3EB0AF/102854.png",
-        "duration": 4,
-        "status": "Aegis",
-        "description": "Block the next incoming attack; stacks duration.",
-        "apply_count": 1
-      },
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/DFB4D1B50AE4D6A275B349E15B179261EE3EB0AF/102854.png",
+      "duration": 4,
+      "status": "Aegis",
+      "description": "Block the next incoming attack; stacks duration.",
+      "apply_count": 1
+    },
     {
-        "text": "Apply Buff/Condition",
-        "type": "Buff",
-        "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
-        "duration": 5,
-        "status": "Protection",
-        "description": "Incoming strike damage decreased by 33%; stacks duration.",
-        "apply_count": 1
-      },
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+      "duration": 5,
+      "status": "Protection",
+      "description": "Incoming strike damage decreased by 33%; stacks duration.",
+      "apply_count": 1
+    },
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://wiki.guildwars2.com/images/d/d8/Epilogue-_Unbroken_Lines.png",
       "duration": 6,
       "status": "Unbroken Lines",
-      "description": "300 Toughness.",
+      "description": "300 Toughness."
     },
     {
-        "text": "Apply Buff/Condition",
-        "type": "Buff",
-        "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
-        "duration": 5,
-        "status": "Stability",
-        "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
-        "apply_count": 1
-      },
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/3D3A1C2D6D791C05179AB871902D28782C65C244/415959.png",
+      "duration": 5,
+      "status": "Stability",
+      "description": "Cannot be knocked down, pushed back, pulled, launched, stunned, dazed, floated, sunk, feared, or taunted.",
+      "apply_count": 1
+    },
     {
       "text": "Radius",
       "type": "Distance",

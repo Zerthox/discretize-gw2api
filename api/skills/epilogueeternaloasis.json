@@ -20,11 +20,11 @@
       "description": "33% Heal Effectiveness"
     },
     {
-        "text": "Conditions Converted to Boons",
-        "type": "Number",
-        "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-        "value": 5
-      },
+      "text": "Conditions Converted to Boons",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 5
+    },
     {
       "text": "Number of Allied Targets",
       "type": "Number",
