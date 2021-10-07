@@ -1,0 +1,46 @@
+{
+  "name": "Chapter 2: Daring Challenge",
+  "professions": ["Guardian"],
+  "description": "As the tales recount of Turai, taunt your enemies by issuing an insightfully inciting challenge.",
+  "icon": "https://wiki.guildwars2.com/images/7/79/Chapter_2-_Daring_Challenge.png",
+  "categories": ["Tome"],
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 4
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 1.4
+    },
+    {
+        "text": "Apply Buff/Condition",
+        "type": "Buff",
+        "icon": "https://render.guildwars2.com/file/02EED459AD65FAF7DF32A260E479C625070841B9/1228472.png",
+        "duration": 1,
+        "status": "Taunt",
+        "description": "Involuntarily attack foes.",
+        "apply_count": 1
+      },
+    {
+        "text": "Apply Buff/Condition",
+        "type": "Buff",
+        "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
+        "duration": 3,
+        "status": "Resolution",
+        "description": "Incoming condition damage decreased by 33%; stacks duration.",
+        "apply_count": 1
+      },
+    {
+      "text": "Range",
+      "type": "Range",
+      "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+      "value": 240
+    }
+  ]
+}
