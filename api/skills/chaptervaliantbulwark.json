@@ -1,0 +1,42 @@
+{
+  "name": "Chapter 3: Valiant Bulwark",
+  "professions": ["Guardian"],
+  "description": "Manifest the shimmering purity of the desert sun, reflecting enemy missiles.",
+  "icon": "https://wiki.guildwars2.com/images/7/73/Chapter_3-_Valiant_Bulwark.png",
+  "categories": ["Tome"],
+  "facts": [
+    {
+        "text": "Duration",
+        "type": "Time",
+        "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+        "duration": 5
+      },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 240
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+      "duration": 2.5,
+      "status": "Burning",
+      "description": "Deals damage every second; stacks intensity.",
+      "apply_count": 1
+    },
+    {
+        "text": "Reflects Missiles",
+        "type": "NoData",
+        "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png"
+    },
+    {
+        "text": "Range",
+        "type": "Range",
+        "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+        "value": 900
+      }
+    
+  ]
+}
