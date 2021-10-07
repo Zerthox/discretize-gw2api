@@ -1,0 +1,34 @@
+{
+  "name": "Chapter 2: Radiant Recovery",
+  "professions": ["Guardian"],
+  "description": "Release magic from pages detailing the rebuilding of Vabbi, cleansing conditions on nearby allies. Allies are healed for each condition removed.",
+  "icon": "https://wiki.guildwars2.com/images/9/95/Chapter_2-_Radiant_Recovery.png",
+  "categories": ["Tome"],
+  "facts": [
+    {
+      "text": "Recharge",
+      "type": "Recharge",
+      "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+      "value": 4
+    },
+    {
+        "text": "Heal per condition",
+        "type": "AttributeAdjust",
+        "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+        "value": 457,
+        "target": "Healing"
+      },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 240
+    }
+  ]
+}
