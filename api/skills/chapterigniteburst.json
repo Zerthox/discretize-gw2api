@@ -1,9 +1,15 @@
 {
+  "id": 40635,
   "name": "Chapter 2: Igniting Burst",
   "professions": ["Guardian"],
   "description": "Ignite the air around you in an expanding burst.",
   "icon": "https://wiki.guildwars2.com/images/5/53/Chapter_2-_Igniting_Burst.png",
+  "chat_link": "[&BrueAAA=]",
+  "specialization": 62,
+  "type": "Profession",
   "categories": ["Tome"],
+  "weapon_type": "None",
+  "slot": "Weapon_2",
   "facts": [
     {
       "text": "Recharge",

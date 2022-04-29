@@ -1,9 +1,15 @@
 {
+  "id": 63167,
   "name": "Grasping Shadows",
   "professions": ["Thief"],
   "description": "Unleash darkness in a targeted area, inflicting conditions on foes. Cleanse conditions from yourself while healing and cleansing your tethered ally, based on targets struck.",
   "icon": "https://wiki.guildwars2.com/images/e/ef/Grasping_Shadows.png",
+  "chat_link": "[&Br/2AAA=]",
+  "specialization": 71,
+  "type": "Profession",
   "categories": ["Shroud"],
+  "weapon_type": "None",
+  "slot": "Weapon_2",
   "facts": [
     {
       "text": "Recharge",

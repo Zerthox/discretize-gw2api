@@ -1,9 +1,15 @@
 {
+  "id": 42898,
   "name": "Epilogue: Ashes of the Just",
   "professions": ["Guardian"],
   "description": "Recall the memory of fallen heroes, granting allies the searing blades of justice.",
   "icon": "https://render.guildwars2.com/file/EC05420EAE5445A7069409B54D4502ED36BDF10A/1770477.png",
+  "chat_link": "[&BpKnAAA=]",
+  "specialization": 62,
+  "type": "Profession",
   "categories": ["Tome"],
+  "weapon_type": "None",
+  "slot": "Weapon_5",
   "facts": [
     {
       "text": "Recharge",

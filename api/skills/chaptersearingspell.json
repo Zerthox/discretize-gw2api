@@ -1,9 +1,15 @@
 {
+  "id": 41258,
   "name": "Chapter 1: Searing Spell",
   "professions": ["Guardian"],
   "description": "Fueled by tales of the desolation in Istan, incite a great swelling of heat before you.",
   "icon": "https://wiki.guildwars2.com/images/d/d3/Chapter_1-_Searing_Spell.png",
+  "chat_link": "[&BiqhAAA=]",
+  "specialization": 62,
+  "type": "Profession",
   "categories": ["Tome"],
+  "weapon_type": "None",
+  "slot": "Weapon_1",
   "facts": [
     {
       "text": "Damage",

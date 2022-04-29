@@ -1,9 +1,15 @@
 {
+  "id": 45022,
   "name": "Chapter 1: Desert Bloom",
   "professions": ["Guardian"],
   "description": "Tales of desert blooms create a wave of healing for your allies.",
   "icon": "https://wiki.guildwars2.com/images/f/fd/Chapter_1-_Desert_Bloom.png",
+  "chat_link": "[&Bt6vAAA=]",
+  "specialization": 62,
+  "type": "Profession",
   "categories": ["Tome"],
+  "weapon_type": "None",
+  "slot": "Weapon_1",
   "facts": [
     {
       "text": "Healing",

@@ -1,9 +1,15 @@
 {
+  "id": 40015,
   "name": "Chapter 4: Scorched Aftermath",
   "professions": ["Guardian"],
   "description": "Detail the suffering in fire and blood inflicted during Vabbi's occupation.",
   "icon": "https://wiki.guildwars2.com/images/c/c9/Chapter_4-_Scorched_Aftermath.png",
+  "chat_link": "[&Bk+cAAA=]",
+  "specialization": 62,
+  "type": "Profession",
   "categories": ["Tome"],
+  "weapon_type": "None",
+  "slot": "Weapon_4",
   "facts": [
     {
       "text": "Recharge",

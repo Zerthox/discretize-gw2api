@@ -1,9 +1,15 @@
 {
+  "id": 41836,
   "name": "Chapter 3: Valiant Bulwark",
   "professions": ["Guardian"],
   "description": "Manifest the shimmering purity of the desert sun, reflecting enemy missiles.",
   "icon": "https://wiki.guildwars2.com/images/7/73/Chapter_3-_Valiant_Bulwark.png",
+  "chat_link": "[&BmyjAAA=]",
+  "specialization": 62,
+  "type": "Profession",
   "categories": ["Tome"],
+  "weapon_type": "None",
+  "slot": "Weapon_3",
   "facts": [
     {
       "text": "Recharge",

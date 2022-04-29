@@ -1,9 +1,15 @@
 {
+  "id": 63362,
   "name": "Haunt Shot",
   "professions": ["Thief"],
   "description": "Unleash darkness in a targeted area, inflicting conditions on foes and gaining might for each target struck. Heal your tethered ally and grant them might based on the number of targets struck.",
   "icon": "https://wiki.guildwars2.com/images/b/be/Haunt_Shot.png",
+  "chat_link": "[&BoL3AAA=]",
+  "specialization": 71,
+  "type": "Profession",
   "categories": ["Shroud"],
+  "weapon_type": "None",
+  "slot": "Weapon_1",
   "facts": [
     {
       "text": "Damage",

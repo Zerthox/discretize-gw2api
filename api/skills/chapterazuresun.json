@@ -1,9 +1,15 @@
 {
+  "id": 45128,
   "name": "Chapter 3: Azure Sun",
   "professions": ["Guardian"],
   "description": "Inspired by countless poems describing the comforting powers of the water-reflected sun, grant boons to allies.",
   "icon": "https://wiki.guildwars2.com/images/b/bf/Chapter_3-_Azure_Sun.png",
+  "chat_link": "[&BkiwAAA=]",
+  "specialization": 62,
+  "type": "Profession",
   "categories": ["Tome"],
+  "weapon_type": "None",
+  "slot": "Weapon_3",
   "facts": [
     {
       "text": "Recharge",

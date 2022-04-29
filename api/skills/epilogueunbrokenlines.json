@@ -1,9 +1,15 @@
 {
+  "id": 44455,
   "name": "Epilogue: Unbroken Lines",
   "professions": ["Guardian"],
   "description": "Recalling the memory of heroes past, enchant nearby allies with formidable defenses.",
   "icon": "https://wiki.guildwars2.com/images/d/d8/Epilogue-_Unbroken_Lines.png",
+  "chat_link": "[&BqetAAA=]",
+  "specialization": 62,
+  "type": "Profession",
   "categories": ["Tome"],
+  "weapon_type": "None",
+  "slot": "Weapon_5",
   "facts": [
     {
       "text": "Recharge",

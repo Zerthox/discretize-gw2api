@@ -1,9 +1,15 @@
 {
+  "id": 42986,
   "name": "Chapter 1: Unflinching Charge",
   "professions": ["Guardian"],
   "description": "Roused by tales of mythical Sunspear charges, ground and motivate allies before you.",
   "icon": "https://wiki.guildwars2.com/images/3/30/Chapter_1-_Unflinching_Charge.png",
+  "chat_link": "[&BuqnAAA=]",
+  "specialization": 62,
+  "type": "Profession",
   "categories": ["Tome"],
+  "weapon_type": "None",
+  "slot": "Weapon_1",
   "facts": [
     {
       "text": "Apply Buff/Condition",

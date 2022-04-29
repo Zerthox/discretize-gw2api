@@ -1,9 +1,15 @@
 {
+  "id": 42449,
   "name": "Chapter 3: Heated Rebuke",
   "professions": ["Guardian"],
   "description": "Call forth a heated vortex to collapse your enemies together.",
   "icon": "https://wiki.guildwars2.com/images/e/e7/Chapter_3-_Heated_Rebuke.png",
+  "chat_link": "[&BtGlAAA=]",
+  "specialization": 62,
+  "type": "Profession",
   "categories": ["Tome"],
+  "weapon_type": "None",
+  "slot": "Weapon_3",
   "facts": [
     {
       "text": "Recharge",

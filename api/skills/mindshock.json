@@ -1,9 +1,15 @@
 {
+  "id": 63249,
   "name": "Mind Shock",
   "professions": ["Thief"],
   "description": "After a short channel, unleash a blast of compressed magic that stuns enemies. You and your tethered ally gain stability, with stability gaining bonus duration for each enemy struck. Heal your tethered ally based on each enemy you hit.",
   "icon": "https://wiki.guildwars2.com/images/e/e6/Mind_Shock.png",
+  "chat_link": "[&BhH3AAA=]",
+  "specialization": 71,
+  "type": "Profession",
   "categories": ["Shroud"],
+  "weapon_type": "None",
+  "slot": "Weapon_5",
   "facts": [
     {
       "text": "Recharge",

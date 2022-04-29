@@ -1,9 +1,15 @@
 {
+  "id": 42925,
   "name": "Epilogue: Eternal Oasis",
   "professions": ["Guardian"],
   "description": "Purify your allies with the waters of Amnoon and increase the healing they receive.",
   "icon": "https://wiki.guildwars2.com/images/5/5f/Epilogue-_Eternal_Oasis.png",
+  "chat_link": "[&Bq2nAAA=]",
+  "specialization": 62,
+  "type": "Profession",
   "categories": ["Tome"],
+  "weapon_type": "None",
+  "slot": "Weapon_5",
   "facts": [
     {
       "text": "Recharge",

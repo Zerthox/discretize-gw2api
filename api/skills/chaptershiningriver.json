@@ -1,9 +1,15 @@
 {
+  "id": 42008,
   "name": "Chapter 4: Shining River",
   "professions": ["Guardian"],
   "description": "Release a torrent of pages describing the water cycle of the Elon River. Heal allies and grant them swiftness.",
   "icon": "https://wiki.guildwars2.com/images/1/16/Chapter_4-_Shining_River.png",
+  "chat_link": "[&BhikAAA=]",
+  "specialization": 62,
+  "type": "Profession",
   "categories": ["Tome"],
+  "weapon_type": "None",
+  "slot": "Weapon_4",
   "facts": [
     {
       "text": "Recharge",

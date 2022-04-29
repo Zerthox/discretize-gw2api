@@ -1,9 +1,15 @@
 {
+  "id": 41968,
   "name": "Chapter 2: Daring Challenge",
   "professions": ["Guardian"],
   "description": "As the tales recount of Turai, taunt your enemies by issuing an insightfully inciting challenge.",
   "icon": "https://wiki.guildwars2.com/images/7/79/Chapter_2-_Daring_Challenge.png",
+  "chat_link": "[&BvCjAAA=]",
+  "specialization": 62,
+  "type": "Profession",
   "categories": ["Tome"],
+  "weapon_type": "None",
+  "slot": "Weapon_2",
   "facts": [
     {
       "text": "Recharge",

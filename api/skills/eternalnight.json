@@ -1,9 +1,15 @@
 {
+  "id": 63160,
   "name": "Eternal Night",
   "professions": ["Thief"],
   "description": "Strike at foes in front of you with your shadow magic, inflicting conditions. You and your tethered ally gain health for each enemy struck.",
   "icon": "https://wiki.guildwars2.com/images/7/7b/Eternal_Night.png",
+  "chat_link": "[&Brj2AAA=]",
+  "specialization": 71,
+  "type": "Profession",
   "categories": ["Shroud"],
+  "weapon_type": "None",
+  "slot": "Weapon_4",
   "facts": [
     {
       "text": "Recharge",

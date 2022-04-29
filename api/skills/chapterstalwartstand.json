@@ -1,9 +1,15 @@
 {
+  "id": 40988,
   "name": "Chapter 4: Stalwart Stand",
   "professions": ["Guardian"],
   "description": "Recount the stand of Elonian loyalists against Palawa Joko, granting resistance to your allies.",
   "icon": "https://wiki.guildwars2.com/images/e/e7/Chapter_3-_Heated_Rebuke.png",
+  "chat_link": "[&BhygAAA=]",
+  "specialization": 62,
+  "type": "Profession",
   "categories": ["Tome"],
+  "weapon_type": "None",
+  "slot": "Weapon_4",
   "facts": [
     {
       "text": "Recharge",

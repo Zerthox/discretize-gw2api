@@ -1,9 +1,15 @@
 {
+  "id": 63220,
   "name": "Dawn's Response",
   "professions": ["Thief"],
   "description": " Leap to the targeted area, inflicting fear on foes at your ending point. Grant barrier to your tethered ally and yourself based on targets struck. Heal your tethered ally based on targets struck.",
   "icon": "https://wiki.guildwars2.com/images/3/31/Dawn%27s_Repose.png",
+  "chat_link": "[&BvT2AAA=]",
+  "specialization": 71,
+  "type": "Profession",
   "categories": ["Shroud"],
+  "weapon_type": "None",
+  "slot": "Weapon_3",
   "facts": [
     {
       "text": "Recharge",
